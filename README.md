@@ -3,8 +3,9 @@
 Ingeniero Civil Industrial, mención Informática, de Santiago de Chile. Trabajo en análisis de datos y control de gestión: convierto datos operacionales dispersos en reportes y decisiones.
 
 ### ¿A qué me dedico?
+Actualmente trabajo como consultor independiente en analítica de datos y estoy cursando la Especialidad en Análisis de Datos de Desafío Latam.
 
-Actualmente soy consultor independiente en analítica de datos y curso la Especialidad en Análisis de Datos de Desafío Latam. Desarrollo proyectos de análisis y reportabilidad, y construyo un asistente basado en modelos de lenguaje para análisis de perfiles profesionales.
+Desarrollo proyectos de análisis, reportería y visualización de datos orientados a apoyar la toma de decisiones.
 
 ### Formación
 
