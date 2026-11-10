@@ -1,50 +1,47 @@
-## Hola, soy Martín Alfaro Ossandón
 
-Ingeniero Civil Industrial, mención Informática, de Santiago de Chile. Trabajo en análisis de datos y control de gestión: convierto datos operacionales dispersos en reportes y decisiones.
+# Portafolio de Análisis de Datos | Martín Alfaro Ossandón
 
-📂 **[Ver mi portafolio de proyectos](https://github.com/M4RTT1N/portafolio)**
+Ingeniero Civil Industrial, mención Informática, especializado en Control de Gestión, Business Intelligence y Analítica Operacional.
 
-### Qué estoy buscando
+Desarrollo soluciones que transforman datos en información útil para evaluar desempeño, identificar oportunidades de mejora y apoyar decisiones de negocio.
 
-Busco posiciones de **Analista de Datos, Control de Gestión o Business Intelligence**, en modalidad presencial, híbrida o remota, en Santiago de Chile.
+## Proyectos
 
-Me interesan especialmente los equipos donde el análisis se usa para decidir y no solo para reportar, y las industrias con operaciones complejas: minería, salud, retail y logística.
+### 01. Análisis de Transformación Digital — TechCorp
 
-Estoy disponible para incorporarme de inmediato.
+**Problema:** Evaluar los resultados de 18 meses de transformación digital en una empresa manufacturera y determinar si conviene continuar la inversión.
 
-### Mis intereses
+**Solución:** Análisis de 97 registros semanales mediante Python y pandas, consolidación de indicadores trimestrales y elaboración de una narrativa ejecutiva.
 
-- Automatización de reportes y procesos que hoy se hacen a mano
-- Narrativa de datos: que un análisis termine en una decisión, no en un gráfico
-- Modelos de lenguaje aplicados al análisis de información
-- Control de gestión y seguimiento de KPI operacionales
+**Hallazgo:** Los indicadores de negocio mejoraron, pero el crecimiento se estancó mientras disminuía la satisfacción de los empleados.
 
-### ¿A qué me dedico?
+**Tecnologías:** Python · pandas · matplotlib · Jupyter Notebook
 
-Actualmente trabajo como consultor independiente en análisis de datos y digitalización de procesos. Desarrollo soluciones de automatización y reportabilidad, y exploro aplicaciones de modelos de lenguaje para el análisis de información. Cuento con una Especialidad en Análisis de Datos acreditada por Talento Digital para Chile.
+**Entregables:** Notebook reproducible, visualizaciones, análisis ejecutivo y presentación.
 
-### Formación
+[Ver proyecto completo](https://github.com/M4RTT1N/analisis-narrativa-techcorp)
 
-- Ingeniería Civil Industrial, mención Informática — Universidad de La Frontera (2016-2023)
-- Minor en Emprendimiento — Universidad de La Frontera (2020-2022)
-- **Especialidad en Análisis de Datos** — Talento Digital para Chile / Desafío Latam (2026) · [Ver credencial verificada](https://acred.it/CAyrB)
+---
 
-### Experiencia
+## Áreas de especialización
 
-- **Siemens Healthineers** — Analista de Control de Gestión LATAM (2024-2025). Automaticé el reporting comercial y financiero de 4 países con Power BI, SQL sobre Snowflake y Python, con 98% de uptime.
-- **Nutrial S.A.** — Ingeniero de Reportabilidad (2024). Dashboard de KPI financieros en Power BI.
-- **Mining Plus** — Ingeniero de Reportabilidad y Mejoramiento (2023-2024). Reportes de monitoreo operacional en faenas mineras.
-- **Teck** — Memorista y práctica en Superintendencia de Compras (2022-2023). Sistema de control de inventario para más de 1.200 SKU.
+- Control de Gestión y Análisis de Desempeño
+- Business Intelligence y Visualización de Datos
+- Automatización de Procesos y Reporting
+- Analítica de Operaciones y Supply Chain
 
-### Herramientas
+## Tecnologías
 
-Power BI (DAX, Power Query, Power Pivot) · SQL · Snowflake · Python · pandas · Power Platform · SAP · Salesforce · Excel avanzado
+**Análisis:** Python, pandas, SQL, Snowflake
 
-### Dónde encontrarme
+**Visualización:** Power BI, DAX, Power Query, matplotlib
 
-| Plataforma | Enlace |
-|---|---|
-| LinkedIn | [martin-alfaro-ossandon](https://www.linkedin.com/in/martin-alfaro-ossandon/) |
-| GitHub | [M4RTT1N](https://github.com/M4RTT1N) |
-| Correo | m.alfarossandon@gmail.com |
-| Teléfono | +56 9 6610 0800 |
+**Automatización:** Power Automate, Power Platform
+
+**Sistemas empresariales:** SAP, Salesforce
+
+---
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/martin-alfaro-ossandon/) · [GitHub](https://github.com/M4RTT1N) · m.alfarossandon@gmail.com
