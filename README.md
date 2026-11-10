@@ -21,13 +21,13 @@ Estoy disponible para incorporarme de inmediato.
 
 ### ¿A qué me dedico?
 
-Actualmente soy consultor independiente en analítica de datos y curso la Especialidad en Análisis de Datos de Desafío Latam. Desarrollo proyectos de análisis y reportabilidad, y construyo un asistente basado en modelos de lenguaje para análisis de datos.
+Actualmente trabajo como consultor independiente en análisis de datos y digitalización de procesos. Desarrollo soluciones de automatización y reportabilidad, y exploro aplicaciones de modelos de lenguaje para el análisis de información. Cuento con una Especialidad en Análisis de Datos acreditada por Talento Digital para Chile.
 
 ### Formación
 
 - Ingeniería Civil Industrial, mención Informática — Universidad de La Frontera (2016-2023)
 - Minor en Emprendimiento — Universidad de La Frontera (2020-2022)
-- Especialidad en Análisis de Datos — Desafío Latam (en curso)
+- **Especialidad en Análisis de Datos** — Talento Digital para Chile / Desafío Latam (2026) · [Ver credencial verificada](https://acred.it/CAyrB)
 
 ### Experiencia
 
