@@ -1,47 +1,59 @@
 
-# Portafolio de Análisis de Datos | Martín Alfaro Ossandón
+# Martín Alfaro Ossandón
 
-Ingeniero Civil Industrial, mención Informática, especializado en Control de Gestión, Business Intelligence y Analítica Operacional.
+**Ingeniero Civil Industrial, mención Informática | Control de Gestión y Analítica de Datos**
 
-Desarrollo soluciones que transforman datos en información útil para evaluar desempeño, identificar oportunidades de mejora y apoyar decisiones de negocio.
+Santiago, Chile
 
-## Proyectos
+Transformo datos financieros y operacionales en información útil para la toma de decisiones. Mi experiencia combina control de gestión, Business Intelligence y automatización de procesos en sectores como minería y salud.
 
-### 01. Análisis de Transformación Digital — TechCorp
+Me interesan especialmente los desafíos de **eficiencia operacional, seguimiento de indicadores, control financiero y transformación digital**.
 
-**Problema:** Evaluar los resultados de 18 meses de transformación digital en una empresa manufacturera y determinar si conviene continuar la inversión.
+## Proyectos destacados
 
-**Solución:** Análisis de 97 registros semanales mediante Python y pandas, consolidación de indicadores trimestrales y elaboración de una narrativa ejecutiva.
+### Transformación Digital — TechCorp
 
-**Hallazgo:** Los indicadores de negocio mejoraron, pero el crecimiento se estancó mientras disminuía la satisfacción de los empleados.
+Análisis de 18 meses de transformación digital en una empresa manufacturera, desarrollado como caso académico de análisis y narrativa de datos.
 
-**Tecnologías:** Python · pandas · matplotlib · Jupyter Notebook
+- **Desafío:** Evaluar el desempeño de la transformación y sustentar una decisión de inversión.
+- **Solución:** Análisis de 97 registros semanales, consolidación de indicadores y visualizaciones ejecutivas.
+- **Hallazgo:** Identificación de un estancamiento en los indicadores de negocio, acompañado de una disminución de la satisfacción de empleados.
+- **Tecnologías:** Python, pandas, matplotlib y Jupyter Notebook.
 
-**Entregables:** Notebook reproducible, visualizaciones, análisis ejecutivo y presentación.
+[Ver análisis y resultados](https://github.com/M4RTT1N/analisis-narrativa-techcorp)
 
-[Ver proyecto completo](https://github.com/M4RTT1N/analisis-narrativa-techcorp)
+**[Explorar mi portafolio de proyectos](https://github.com/M4RTT1N/portafolio)**
 
----
+## Experiencia profesional
 
-## Áreas de especialización
+- **Siemens Healthineers | Control de Gestión LATAM:** Automatización de reportes financieros y comerciales para cuatro países mediante Power BI, SQL y Python.
+- **Mining Plus | Analítica Operacional:** Análisis y reportabilidad de información operacional de faenas mineras.
+- **Teck | Supply Chain y Compras:** Implementación de un sistema de control de inventario de más de 1.200 SKU, reduciendo en 48 horas el tiempo de reacción ante quiebres de stock.
 
-- Control de Gestión y Análisis de Desempeño
-- Business Intelligence y Visualización de Datos
-- Automatización de Procesos y Reporting
-- Analítica de Operaciones y Supply Chain
+## Competencias y herramientas
 
-## Tecnologías
+| Área | Tecnologías y competencias |
+|---|---|
+| Business Intelligence | Power BI, DAX, Power Query, Power Pivot |
+| Análisis de Datos | Python, pandas, SQL, Snowflake |
+| Control de Gestión | KPI, análisis de desempeño, reporting financiero |
+| Automatización | Power Platform, Power Automate, Excel VBA |
+| Sistemas Empresariales | SAP, Salesforce, JD Edwards, IBM Maximo |
 
-**Análisis:** Python, pandas, SQL, Snowflake
+## Formación y certificaciones
 
-**Visualización:** Power BI, DAX, Power Query, matplotlib
+- **Ingeniería Civil Industrial, mención Informática** — Universidad de La Frontera (2023).
+- **Minor en Emprendimiento** — Universidad de La Frontera (2022).
+- **Especialidad en Análisis de Datos** — Talento Digital para Chile / Desafío Latam (2026). [Ver credencial verificada](https://acred.it/CAyrB).
 
-**Automatización:** Power Automate, Power Platform
+## Objetivos profesionales
 
-**Sistemas empresariales:** SAP, Salesforce
+Busco contribuir en equipos de **Business Intelligence, Control de Gestión, Analítica Operacional o Supply Chain**, especialmente en minería, energía e industrias con operaciones complejas.
 
----
+Mi foco está en desarrollar soluciones que permitan pasar del análisis de datos a decisiones concretas y mejoras operacionales.
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/martin-alfaro-ossandon/) · [GitHub](https://github.com/M4RTT1N) · m.alfarossandon@gmail.com
+- **LinkedIn:** [martin-alfaro-ossandon](https://www.linkedin.com/in/martin-alfaro-ossandon/)
+- **Correo:** m.alfarossandon@gmail.com
+- **Ubicación:** Santiago, Chile
